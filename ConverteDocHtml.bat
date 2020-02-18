@@ -1,5 +1,6 @@
 ::Script criado para pegar arquivos DOT ou DOC de uma pasta e converte-los para html.
 ::Criado por Rodrigo Castro - 14-02-2020
+
 ::Nescessário:
 ::Libreoffice
 ::Caminho do libreoffice no path do windows
